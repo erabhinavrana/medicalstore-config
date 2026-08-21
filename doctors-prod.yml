@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 doctors:
-  message: "Welcome to the Super Medical Store doctors service related PROD APIs"
+  message: "Welcome to the Super Medical Store doctors service related production APIs"
   contactDetails:
     name: "Sanju Singh - Production Support"
     email: "sanju.singh@learn2code.com"
