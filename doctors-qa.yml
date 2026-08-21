@@ -5,7 +5,7 @@ doctors:
   message: "Welcome to the Super Medical Store doctors service related QA APIs"
   contactDetails:
     name: "Alex Tait - QA Lead"
-    email: "alex.tait@learn2code.com"
+    email: "{cipher}96cc62908bb245e3e7aadcda1baf826ec56ad3d8cb44814d6c1a4dd3bef8427eb772be86ae1b6e85928671806780c46a"
   onCallSupport:
     - (989) 123-4321
     - (888) 323-4444
