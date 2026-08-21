@@ -1,0 +1,11 @@
+build:
+  version: 3.0.0
+
+patients:
+  message: "Welcome to the Super Medical Store patients service related local APIs"
+  contactDetails:
+    name: "Abhinav Rana - Developer"
+    email: "abhinav.rana@learn2code.com"
+  onCallSupport:
+    - (989) 123-1234
+    - (888) 323-3333

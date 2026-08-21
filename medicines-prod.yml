@@ -1,0 +1,11 @@
+build:
+  version: 1.0.0
+
+medicines:
+  message: "Welcome to the Super Medical Store medicines service related PROD APIs"
+  contactDetails:
+    name: "Sanju Singh - Production Support"
+    email: "sanju.singh@learn2code.com"
+  onCallSupport:
+    - (989) 123-5432
+    - (888) 323-5555
