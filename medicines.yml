@@ -2,7 +2,7 @@ build:
   version: 3.0.0
 
 medicines:
-  message: "Welcome to the Super Medical Store medicines service related local APIs"
+  message: "Welcome to the Super Medical Store - medicines service local APIs"
   contactDetails:
     name: "Abhinav Rana - Developer"
     email: "abhinav.rana@learn2code.com"
